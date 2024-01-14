@@ -13,7 +13,7 @@ export const PostsData = [
     },
     {
         img: postPic2,
-        name: 'Maryam',
+        name: 'Maya',
         desc: "Party time :)",
         likes: 2300,
         liked: false
