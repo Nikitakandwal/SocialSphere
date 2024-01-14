@@ -23,7 +23,9 @@ To run SocialConnect locally, follow these steps:
 ## Screenshots
 
 Home Page
-![image](https://github.com/Nikitakandwal/SocialSphere/assets/98966392/d477c3c5-7a60-47b0-a005-855fc452dc3e)
+
+![image](https://github.com/Nikitakandwal/SocialSphere/assets/98966392/d91b3d25-f536-44e5-ba05-a267e963a9cb)
+
 
 
 Post
@@ -33,8 +35,11 @@ Post
 
 
 Account Profile
-![image](https://github.com/Nikitakandwal/SocialSphere/assets/98966392/8859c23e-2eff-4638-b7f9-0906c5e62552)
+
+![image](https://github.com/Nikitakandwal/SocialSphere/assets/98966392/06dea094-48ac-490b-a92c-4cbe92297de2)
+
 
 
 Messenger
+
 ![image](https://github.com/Nikitakandwal/SocialSphere/assets/98966392/45ec4975-bc94-44d7-a2a6-dd14727e3a53)
