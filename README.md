@@ -19,3 +19,22 @@ To run SocialConnect locally, follow these steps:
 2.	Install dependencies: cd frontend/backend && npm install
 3.	Set up the MongoDB database and configure the connection.
 4.	Start the server: npm start for both the client and server.
+
+## Screenshots
+
+Home Page
+![image](https://github.com/Nikitakandwal/SocialSphere/assets/98966392/d477c3c5-7a60-47b0-a005-855fc452dc3e)
+
+
+Post
+
+![image](https://github.com/Nikitakandwal/SocialSphere/assets/98966392/7ca07127-7a61-4cbe-a278-e24b6dd92202)
+
+
+
+Account Profile
+![image](https://github.com/Nikitakandwal/SocialSphere/assets/98966392/8859c23e-2eff-4638-b7f9-0906c5e62552)
+
+
+Messenger
+![image](https://github.com/Nikitakandwal/SocialSphere/assets/98966392/45ec4975-bc94-44d7-a2a6-dd14727e3a53)
