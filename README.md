@@ -1,0 +1,2 @@
+# SocialSphere - MERN Stack Social Media Application with Real-time Chat using Socket.IO
+SocialSphere is a feature-rich social media application built using the MERN stack (MongoDB, Express.js, React, Node.js). It provides a comprehensive platform for users to connect, share their thoughts, and engage with others, complete with a real-time chat system powered by Socket.IO for seamless communication.
